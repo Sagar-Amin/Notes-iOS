@@ -6,6 +6,6 @@ Notes App
    - Define database structure for note
    - Create array for notes
    - CRUD (create, read, update, delete) function in array
-   - Navigation between navigation
+   - Navigation-between-navigation
    - Delete gesture in List component
      
