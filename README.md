@@ -99,7 +99,7 @@ List {
 ## 📱 Technologies Used
 
 - SwiftUI
-- MVVC Architecture
+- MVVM Architecture
 - NavigationLink
 - List Control with gesture support
 
