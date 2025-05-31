@@ -1,5 +1,5 @@
 
-# 📒 Note App
+# 📒 Notes App
 
 A SwiftUI-based CRUD application for creating, viewing, updating, and deleting notes. It includes navigation between views and gesture support for deleting notes from a list.
 
