@@ -8,7 +8,7 @@ A SwiftUI-based CRUD application for creating, viewing, updating, and deleting n
 ## 🛠 Features
 
 - SwiftUI-based UI
-- MVVC Architecture
+- MVVM Architecture
 - Navigation between MainView, AddView, UpdateView, etc.
 - List control with swipe-to-delete gesture
 - Reusable components for clean and modular design
