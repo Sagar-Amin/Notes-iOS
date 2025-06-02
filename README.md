@@ -17,7 +17,7 @@ A SwiftUI-based CRUD application for creating, viewing, updating, and deleting n
 
 ## 🧱 Architecture
 
-### 1. MVVC Pattern
+### 1. MVVM Pattern
 
 #### 🧩 Model
 
